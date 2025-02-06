@@ -2,7 +2,7 @@
 
 
 # 🙋🏻‍♂️ About Me:
-<h3 align="center">🚀 Hi, I am a Backend and Smart Contract Engineer, building dApps for more than 2 years now. I started as an iOS developer then moved towards the web3 space as a challenge to myself. I build all the projects from ground up starting from ideation to production. I have experiences in integrating top DeFi protocols including Venus Protocol, Wombat Protocol, Uniswap V2/V3, Pancakswap V2, Biswap V2, Compound Protocol, AAVE protocol and many more to our product at Velvet Capital.</h3>
+<h3 align="center">🚀 Hi, I am a Backend and Smart Contract Engineer, building dApps for around 3 years now. I started as an iOS developer then moved towards the web3 space as a challenge to myself. I build all the projects from ground up starting from ideation to production. I have experiences in integrating top DeFi protocols including Venus Protocol, Wombat Protocol, Uniswap V2/V3, Pancakswap V2, Biswap V2, Compound Protocol, AAVE protocol and many more to our product at Velvet Capital.</h3>
 
 
 
